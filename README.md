@@ -1,0 +1,1 @@
+# Lifestyle-Aware-Forecasting-of-Battery-Remaining-Useful-Life-Trends-Using-a-CNN-GRU-Hybrid-Model.
